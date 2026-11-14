@@ -1,0 +1,6559 @@
+{
+ "deals": {
+  "d0482": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0415": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0060": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0441": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0069": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0495": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0148": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0442": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0201": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0095": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0020": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0316": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0008": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0353": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0232": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0427": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0518": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0127": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0054": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0483": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0109": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0501": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0120": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0025": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0101": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0287": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0399": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0185": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0235": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0246": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0117": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0365": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0529": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0102": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0064": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ]
+   ]
+  },
+  "d0281": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0250": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0271": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0278": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0267": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0431": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0350": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0419": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0358": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0052": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0349": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0154": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0328": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0490": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0092": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0211": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0194": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0079": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0325": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0189": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0140": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0014": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0252": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0375": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0202": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0049": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0186": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ]
+   ]
+  },
+  "d0434": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0459": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0500": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0050": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0019": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0304": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0085": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0494": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0162": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0003": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0016": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0409": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0336": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0530": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0037": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0412": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0447": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0082": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0010": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0313": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0446": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0104": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0462": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0315": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0110": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0166": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0034": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0153": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0331": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0240": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0133": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0217": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0455": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0145": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0408": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0454": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0187": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0356": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ]
+   ]
+  },
+  "d0007": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0321": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0468": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0001": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0039": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ]
+   ]
+  },
+  "d0519": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0175": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0181": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0300": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0492": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0514": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0502": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0524": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0306": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0203": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0207": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0027": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0160": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0435": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0418": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0319": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0047": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0421": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0523": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0532": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0078": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0290": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0297": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0059": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0493": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0168": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0391": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0370": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0309": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0182": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0487": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0458": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0475": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0197": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0478": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0307": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0123": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0172": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0320": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0466": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0150": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0469": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0214": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0208": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0100": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0474": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0053": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0031": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0528": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0448": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0213": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0108": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0292": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0348": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0471": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0390": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0498": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0099": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0210": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0513": {
+   "primary": "security_review",
+   "polarity": 1,
+   "themes": [
+    [
+     "security_review",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0403": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0170": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0510": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0045": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0231": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0122": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0256": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0339": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0496": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0013": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0065": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0260": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "support",
+     1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0480": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0343": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0274": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0119": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0516": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0317": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0225": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0286": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0249": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0299": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0429": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0071": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0473": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0511": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0204": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0312": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0046": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0396": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0220": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0023": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0334": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0440": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0282": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0265": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0426": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0248": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0128": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0089": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0169": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0076": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0531": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0340": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0234": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0177": {
+   "primary": "security_review",
+   "polarity": 1,
+   "themes": [
+    [
+     "security_review",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0386": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0264": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0363": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0143": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0255": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0374": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0425": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0276": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0165": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0067": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0009": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0497": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0043": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0362": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0116": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0074": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0505": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0272": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0515": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0401": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0040": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0021": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0527": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0026": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0158": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0200": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0522": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0205": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ]
+   ]
+  },
+  "d0141": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0405": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0183": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0382": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0488": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0174": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0450": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0503": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0238": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0373": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0098": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0520": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ]
+   ]
+  },
+  "d0176": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0251": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0269": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0244": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0105": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0222": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0228": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0243": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0077": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0481": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0136": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0383": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ]
+   ]
+  },
+  "d0063": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0247": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0324": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0135": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0167": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0239": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0115": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0219": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0423": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0398": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0002": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ]
+   ]
+  },
+  "d0489": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0075": {
+   "primary": "security_review",
+   "polarity": 1,
+   "themes": [
+    [
+     "security_review",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0072": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0453": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0416": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0485": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0509": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0263": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0206": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0424": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0236": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0275": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0407": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0404": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0305": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0461": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0335": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0233": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0230": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0400": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0273": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0279": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0022": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0428": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0291": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ]
+   ]
+  },
+  "d0438": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0113": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0437": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0295": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0381": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0445": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ]
+   ]
+  },
+  "d0410": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0180": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0388": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0012": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0310": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0301": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0284": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0223": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0227": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0378": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0406": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0491": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0470": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0369": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0142": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0245": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0073": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0357": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0139": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0507": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0389": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0112": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0030": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0521": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0129": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0058": {
+   "primary": "security_review",
+   "polarity": -1,
+   "themes": [
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0364": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0318": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0164": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0411": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0209": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0380": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0066": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0402": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0338": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0259": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ]
+   ]
+  },
+  "d0044": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0184": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0372": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0344": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0337": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0439": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0361": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0149": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "security_review",
+     -1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0216": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0308": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0452": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0137": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0379": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0192": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0191": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0433": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0193": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0430": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0266": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0199": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0392": {
+   "primary": "time_to_value",
+   "polarity": -1,
+   "themes": [
+    [
+     "time_to_value",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0262": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ]
+   ]
+  },
+  "d0465": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0241": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0298": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0368": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ]
+   ]
+  },
+  "d0196": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0303": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0218": {
+   "primary": "pricing",
+   "polarity": -1,
+   "themes": [
+    [
+     "pricing",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0144": {
+   "primary": "timing_budget",
+   "polarity": -1,
+   "themes": [
+    [
+     "timing_budget",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0173": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0387": {
+   "primary": "exec_sponsor",
+   "polarity": 1,
+   "themes": [
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0042": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0062": {
+   "primary": "erp_integration",
+   "polarity": -1,
+   "themes": [
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0526": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0277": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  },
+  "d0330": {
+   "primary": "support",
+   "polarity": 1,
+   "themes": [
+    [
+     "support",
+     1
+    ],
+    [
+     "time_to_value",
+     1
+    ]
+   ]
+  },
+  "d0327": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "ai_agents",
+     -1
+    ]
+   ]
+  },
+  "d0147": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0038": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ],
+    [
+     "erp_integration",
+     -1
+    ],
+    [
+     "ease_of_use",
+     1
+    ]
+   ]
+  },
+  "d0314": {
+   "primary": "ease_of_use",
+   "polarity": 1,
+   "themes": [
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0091": {
+   "primary": "roi_proof",
+   "polarity": 1,
+   "themes": [
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     1
+    ]
+   ]
+  },
+  "d0151": {
+   "primary": "references",
+   "polarity": 1,
+   "themes": [
+    [
+     "references",
+     1
+    ]
+   ]
+  },
+  "d0048": {
+   "primary": "ai_agents",
+   "polarity": -1,
+   "themes": [
+    [
+     "ai_agents",
+     -1
+    ],
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0229": {
+   "primary": "exec_sponsor",
+   "polarity": -1,
+   "themes": [
+    [
+     "exec_sponsor",
+     -1
+    ]
+   ]
+  },
+  "d0333": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "roi_proof",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "pricing",
+     -1
+    ]
+   ]
+  },
+  "d0125": {
+   "primary": "time_to_value",
+   "polarity": 1,
+   "themes": [
+    [
+     "time_to_value",
+     1
+    ],
+    [
+     "ease_of_use",
+     1
+    ],
+    [
+     "references",
+     1
+    ],
+    [
+     "support",
+     1
+    ]
+   ]
+  }
+ },
+ "objection_effects": {
+  "security_review": "packet_first",
+  "erp_integration": "partner_connector",
+  "exec_sponsor": "exec_briefing",
+  "ai_agents": "governed_ai",
+  "pricing": "usage_tier"
+ },
+ "notes": [],
+ "planted": {
+  "stated_vs_real": "CRM 'Price' greatly overstates pricing as the real loss driver",
+  "soc2_day": 212,
+  "rising": "ai_agents (Relaywork) in FY26",
+  "falling": "security_review after SOC 2",
+  "cross_source_gap": "erp_integration",
+  "buyer_phrases": [
+   "without it",
+   "first workflow",
+   "audit trail",
+   "month-end close",
+   "our erp",
+   "business case"
+  ]
+ }
+}

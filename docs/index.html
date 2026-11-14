@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Win/Loss Engine</title>
+<meta name="description" content="Why deals are won and lost, in buyers' own words. Win/loss and voice-of-customer analysis on synthetic Acme Corp data.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Cpath d=%22M4 6h24v15H14l-6 5v-5H4z%22 fill=%22%234659d6%22/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<!-- Project ribbon: cross-links James Allgood's open-source GTM tools. -->
+<style>
+  .ja-ribbon { box-sizing: border-box; height: 36px; display: flex; align-items: center; gap: 18px; padding: 0 24px; background: #15181e; color: #f3f4f6; font: 13px/1 "IBM Plex Sans", "Segoe UI", Roboto, Arial, sans-serif; overflow-x: auto; white-space: nowrap; }
+  .ja-ribbon .ja-who { font-weight: 600; color: #f3f4f6; opacity: 1; margin-right: 6px; }
+  .ja-ribbon nav { display: flex; gap: 16px; }
+  .ja-ribbon a { color: #f3f4f6; opacity: 0.75; text-decoration: none; }
+  .ja-ribbon a:hover, .ja-ribbon a:focus-visible { opacity: 1; text-decoration: underline; }
+  .ja-ribbon a[aria-current="page"] { opacity: 1; font-weight: 600; padding-bottom: 3px; border-bottom: 2px solid #7f98ff; }
+  .ja-ribbon .ja-gh { margin-left: auto; }
+  .ja-ribbon .ja-tour { font: inherit; color: #fff; background: #4659d6; border: 0; border-radius: 3px; padding: 5px 10px; font-weight: 600; cursor: pointer; }
+  .ja-ribbon .ja-tour:hover, .ja-ribbon .ja-tour:focus-visible { background: #6476ea; }
+  @media print { .ja-ribbon { display: none; } }
+</style>
+<div class="ja-ribbon" role="navigation" aria-label="James Allgood's projects">
+  <a class="ja-who" href="https://jamesallgood.com/ai-skills.html">James Allgood</a>
+  <nav>
+    <a href="https://jamesallgood99.github.io/gtm-simulator/">GTM Simulator</a>
+    <a href="https://jamesallgood99.github.io/competitive-intel-tracker/">Competitive Intel Tracker</a>
+    <a href="https://jamesallgood99.github.io/acme-prospecting-agents/">Prospecting Agents</a>
+    <a href="https://jamesallgood99.github.io/full-funnel-attribution/">Full-Funnel Attribution</a>
+    <a href="https://jamesallgood99.github.io/win-loss-engine/" aria-current="page">Win/Loss Engine</a>
+  </nav>
+  <a class="ja-gh" href="https://github.com/jamesallgood99/win-loss-engine">View source on GitHub</a>
+  <button class="ja-tour" type="button" data-tour-open>Take the tour</button>
+</div>
+<header class="masthead">
+  <div class="brand">
+    <svg class="brand-bubble" viewBox="0 0 34 30" aria-hidden="true"><path d="M2 3h30v18H15l-7 6v-6H2z" fill="var(--accent)"/><path d="M8 9h18M8 14h12" stroke="var(--surface)" stroke-width="2.4" stroke-linecap="round"/></svg>
+    <div>
+      <h1>Win/Loss Engine</h1>
+      <p class="sub"><strong>Acme Corp</strong> · Demo on synthetic data · Nov 2024 – Oct 2026</p>
+    </div>
+  </div>
+  <form class="controls" id="controls" aria-label="Filters">
+    <label class="ctl"><span>Period</span><select id="ctl-period"></select></label>
+    <label class="ctl"><span>Segment</span>
+      <select id="ctl-tier">
+        <option value="all">All segments</option>
+        <option value="Enterprise">Enterprise</option>
+        <option value="Mid-market">Mid-market</option>
+        <option value="SMB">SMB</option>
+      </select></label>
+  </form>
+</header>
+
+<nav class="tabs" id="tabs" aria-label="Views">
+  <a href="#overview" data-tab="overview">Overview</a>
+  <a href="#themes" data-tab="themes">Why we win &amp; lose</a>
+  <a href="#stated" data-tab="stated">Stated vs. real</a>
+  <a href="#competitors" data-tab="competitors">Competitors</a>
+  <a href="#objections" data-tab="objections">Objections</a>
+  <a href="#language" data-tab="language">Buyer language</a>
+  <a href="#customers" data-tab="customers">Customer voice</a>
+  <a href="#evidence" data-tab="evidence">Evidence</a>
+  <a href="#actions" data-tab="actions" class="tab-opt">Actions</a>
+  <a href="#method" data-tab="method">Method</a>
+</nav>
+
+<main id="view" tabindex="-1">
+  <div class="loading">Loading Acme Corp's win/loss corpus…</div>
+</main>
+
+<footer class="foot">
+  <p>Acme Corp and every customer, buyer, competitor and quote here are fictional; the corpus comes from <code>generator/generate.py</code>. In production, Claude codes real transcripts with the prompt in <code>prompts/code-excerpt.md</code>. <a href="https://github.com/jamesallgood99/win-loss-engine">Source on GitHub</a></p>
+</footer>
+
+<div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="https://cdn.jsdelivr.net/npm/pptxgenjs@3.12.0/dist/pptxgen.bundle.js"></script>
+<script>window.PptxGenJS || document.write('<script src="vendor/pptxgen.bundle.js"><\/script>');</script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+{"type":"module","private":true,"name":"win-loss-engine","scripts":{"generate":"python3 generator/generate.py","test":"node tests/engine.test.mjs","serve":"python3 -m http.server 8000 -d docs"},"license":"MIT"}
